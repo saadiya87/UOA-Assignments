@@ -1,2 +1,2 @@
 # UOA-Assignments
-Assignments completed for the University of Arizona's MS programme
+Assignments completed for the University of Arizona's MS programme in Data Science
